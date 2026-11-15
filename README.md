@@ -11,7 +11,7 @@ Plant-Disease-Project/
 ├── models/          # saved weights + class lists (not committed)
 ├── data.py          # loads PlantVillage per crop -> dataloaders + class names
 ├── train.py         # pretrained ResNet18, training, early stopping, test metrics
-├── main.py          # entry point
+├── main.py          # runtime
 ├── .gitignore       # ignores models/, *.pth, data, notebook outputs
 └── README.md
 ```
